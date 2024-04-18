@@ -2,7 +2,7 @@
 layout: page
 name: Renato 
 lastname: Miotto
-position: Former
+position: Msc Student
 title: Renato Miotto
 ---
 
